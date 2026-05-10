@@ -67,7 +67,8 @@ Se realizaron pruebas de arranque, movimiento mediante pulsadores, movimiento me
 
 ### Test de actuadores
 
-![Test de actuadores](capturas/test-actuadores.png)
+![Test de actuadores](capturas/test-actuadores-1.png)
+![Test de actuadores](capturas/test-actuadores-2.png)
 
 ### Movimiento del ascensor
 
