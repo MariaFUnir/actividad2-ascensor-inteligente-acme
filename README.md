@@ -96,10 +96,6 @@ Se realizaron pruebas de arranque, movimiento mediante pulsadores, movimiento me
 
 ![LED iluminación](capturas/led-iluminacion.png)
 
-### Monitor serie
-
-![Monitor serie](capturas/monitor-serie.png)
-
 ## Archivos del proyecto
 
 - `sketch.ino`: código fuente de Arduino.
